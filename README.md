@@ -30,7 +30,7 @@ As principais tecnologias usadas pelo Back-end são:
 - C#
 
 ### Banco de dados
-![GitHub Logo](https://lh3.googleusercontent.com/proxy/Ek0DvZ1_k9H9EqI_9nTTo03x8rEZrxl_y4t7AZP3YGj7lnZbLh0Ml8s74edMFVRwOJ6aZV7Fqqn8djtkl070vvpWKs3__IonhsLye1d8L7fHDwkx_wPDiYZ6POrfGX6lL4kWTUfG2Q)
+![GitHub Logo](https://www.cetax.com.br/blog/wp-content/uploads/2016/04/dw.png)
 
 Banco de dados são coleções de informações organizadas que podem se relacionar, ou seja, é um local onde armazenamos dados, que são organizados por assuntos. 
 Os principais bancos:
