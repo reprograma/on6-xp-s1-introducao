@@ -35,5 +35,5 @@ Shaiene Carlos Barbosa:
 Simoni Accioly Vieira:
 Tainara Moreno da Silva:
 Tassila da Silva Bomfim:
-Thaíssa Carrafa do Nascimento:
+Thaíssa Carrafa do Nascimento: https://github.com/thaissacarrafa/exercicio-git-e-github
 Vivian Kimie Toyota:
