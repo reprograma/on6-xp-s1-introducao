@@ -29,7 +29,7 @@ Naiara Santos de Lima:
 Nathália Cristina dos Santos:
 Patrícia de Souza dos Santos:
 Phabliny Martins Silva Bomfim:
-Raphaela Cristina Oliveira Britto: https://github.com/RaphaelaCristina/Exercicio-semana1
+Raphaela Cristina Oliveira Britto: https://github.com/RaphaelaCristina/Exercicio-semana1 
 Renata Braga de Abreu:
 Shaiene Carlos Barbosa:
 Simoni Accioly Vieira:
