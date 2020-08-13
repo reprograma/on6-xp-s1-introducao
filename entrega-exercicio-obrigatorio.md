@@ -18,7 +18,7 @@ Larissa Botelho de Souza:
 Lenize Barbosa de Lira:
 Letícia Ferreira Lima:
 Leticia Luzia da Silva Furtado:
-Lidiane Angelo Martins:
+Lidiane Angelo Martins: https://github.com/Lidianeangelo/on6-xp-s1-introducao.git
 Lilian Gomes Castro:
 Lílian Honorio Teixeira:
 Luana Letícia de Souza Silva:
