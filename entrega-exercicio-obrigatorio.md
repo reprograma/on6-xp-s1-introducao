@@ -11,7 +11,7 @@ Deise Somaya Gomes da Silva:
 Edilene Lopes do Rosario:
 Edlaine de Pontes Silva:
 Fernanda Gabriela Lima Oliveira Bezerra:https://github.com/nanda-oliveira/exercicio-git-e-github
-Graciela Lopes Nonato:
+Graciela Lopes Nonato: https://github.com/GraciLopes/exercicio1
 Jessyca Maria Sousa Costa de Pascoa:
 Laís Maaséias Lopes:
 Larissa Botelho de Souza:
