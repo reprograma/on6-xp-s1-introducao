@@ -2,7 +2,7 @@
 
 > Insira na lista apenas o link correspondente ao repositório que você criou  
 
-Andréia Rosa Cardoso:
+Andréia Rosa Cardoso:https://github.com/andreianet/reprograma-exercicios
 Andreza Maia:
 Camila de Paula Bentes Pessôa:
 Camila Marques dos Santos:
