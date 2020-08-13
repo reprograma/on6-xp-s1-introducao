@@ -26,7 +26,7 @@ Maria Rosinele Félix do Nascimento:
 Mariana da Silva Pinheiro:
 Monaliza da Silva Vitor:
 Naiara Santos de Lima:
-Nathália Cristina dos Santos: https://github.com/nathaliacsan/exercicio-1-reprograma
+Nathália Cristina dos Santos:
 Patrícia de Souza dos Santos:
 Phabliny Martins Silva Bomfim:
 Raphaela Cristina Oliveira Britto: https://github.com/RaphaelaCristina/Exercicio-semana1
