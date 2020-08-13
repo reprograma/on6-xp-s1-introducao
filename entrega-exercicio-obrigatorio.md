@@ -20,7 +20,7 @@ Letícia Ferreira Lima:
 Leticia Luzia da Silva Furtado:
 Lidiane Angelo Martins:
 Lilian Gomes Castro:
-Lílian Honorio Teixeira:
+Lílian Honorio Teixeira: https://github.com/lilianhteixeira/Reprograma/tree/master/Semana_1_Git_%26_Github
 Luana Letícia de Souza Silva:
 Maria Rosinele Félix do Nascimento:
 Mariana da Silva Pinheiro:
