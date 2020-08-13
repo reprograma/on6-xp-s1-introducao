@@ -8,7 +8,7 @@ Camila de Paula Bentes Pessôa:
 Camila Marques dos Santos:
 Camila Santos Bulcão:
 Deise Somaya Gomes da Silva:
-Edilene Lopes do Rosario:
+Edilene Lopes do Rosario: https://github.com/EdileneLopes/exercicio1-reprograma , 
 Edlaine de Pontes Silva:
 Fernanda Gabriela Lima Oliveira Bezerra:https://github.com/nanda-oliveira/exercicio-git-e-github
 Graciela Lopes Nonato:
