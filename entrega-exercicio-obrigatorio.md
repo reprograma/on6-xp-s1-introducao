@@ -24,7 +24,7 @@ Lílian Honorio Teixeira:
 Luana Letícia de Souza Silva:
 Maria Rosinele Félix do Nascimento:
 Mariana da Silva Pinheiro:
-Monaliza da Silva Vitor:
+Monaliza da Silva Vitor: https://github.com/monalizavitor/frameworks-e-bibliotecas
 Naiara Santos de Lima:
 Nathália Cristina dos Santos:
 Patrícia de Souza dos Santos:
