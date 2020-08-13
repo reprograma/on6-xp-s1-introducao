@@ -19,7 +19,7 @@ Lenize Barbosa de Lira:
 Letícia Ferreira Lima:
 Leticia Luzia da Silva Furtado:
 Lidiane Angelo Martins:
-Lilian Gomes Castro:
+Lilian Gomes Castro: https://github.com/stormlilian/reprogram-exercicio1.git
 Lílian Honorio Teixeira:
 Luana Letícia de Souza Silva:
 Maria Rosinele Félix do Nascimento:
