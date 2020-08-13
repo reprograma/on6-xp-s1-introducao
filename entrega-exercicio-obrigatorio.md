@@ -14,7 +14,7 @@ Fernanda Gabriela Lima Oliveira Bezerra:https://github.com/nanda-oliveira/exerci
 Graciela Lopes Nonato:
 Jessyca Maria Sousa Costa de Pascoa:
 Laís Maaséias Lopes:
-Larissa Botelho de Souza:
+Larissa Botelho de Souza: https://github.com/botelholarissa/exercicio-aula1-larissa
 Lenize Barbosa de Lira:
 Letícia Ferreira Lima:
 Leticia Luzia da Silva Furtado:
