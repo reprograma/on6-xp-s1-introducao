@@ -25,7 +25,7 @@ Luana Letícia de Souza Silva:
 Maria Rosinele Félix do Nascimento:
 Mariana da Silva Pinheiro:
 Monaliza da Silva Vitor:
-Naiara Santos de Lima:
+Naiara Santos de Lima: https://github.com/NahLima/nah-reprograma-exercicio1
 Nathália Cristina dos Santos:
 Patrícia de Souza dos Santos:
 Phabliny Martins Silva Bomfim:
