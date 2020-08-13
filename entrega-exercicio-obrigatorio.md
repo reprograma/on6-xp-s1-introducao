@@ -6,7 +6,7 @@ Andréia Rosa Cardoso:
 Andreza Maia:
 Camila de Paula Bentes Pessôa:
 Camila Marques dos Santos:
-Camila Santos Bulcão:
+Camila Santos Bulcão: https://github.com/camilabulcao/exercicio1-reprograma
 Deise Somaya Gomes da Silva:
 Edilene Lopes do Rosario:
 Edlaine de Pontes Silva:
