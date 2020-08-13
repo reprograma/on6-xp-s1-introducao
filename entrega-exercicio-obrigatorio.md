@@ -10,7 +10,7 @@ Camila Santos Bulcão:
 Deise Somaya Gomes da Silva:
 Edilene Lopes do Rosario:
 Edlaine de Pontes Silva:
-Fernanda Gabriela Lima Oliveira Bezerra:
+Fernanda Gabriela Lima Oliveira Bezerra:https://github.com/nanda-oliveira/exercicio-git-e-github
 Graciela Lopes Nonato:
 Jessyca Maria Sousa Costa de Pascoa:
 Laís Maaséias Lopes:
