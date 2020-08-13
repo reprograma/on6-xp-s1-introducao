@@ -21,7 +21,7 @@ Leticia Luzia da Silva Furtado:
 Lidiane Angelo Martins:
 Lilian Gomes Castro:
 Lílian Honorio Teixeira:
-Luana Letícia de Souza Silva:
+Luana Letícia de Souza Silva: https://github.com/Luana-Leticia/reprograma-exercicio1
 Maria Rosinele Félix do Nascimento:
 Mariana da Silva Pinheiro:
 Monaliza da Silva Vitor:
