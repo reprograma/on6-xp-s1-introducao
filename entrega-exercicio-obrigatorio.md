@@ -7,7 +7,7 @@ Andreza Maia:
 Camila de Paula Bentes Pessôa:
 Camila Marques dos Santos:
 Camila Santos Bulcão:
-Deise Somaya Gomes da Silva:
+Deise Somaya Gomes da Silva:https://github.com/somayamaya/semana1.git
 Edilene Lopes do Rosario:
 Edlaine de Pontes Silva:
 Fernanda Gabriela Lima Oliveira Bezerra:https://github.com/nanda-oliveira/exercicio-git-e-github
