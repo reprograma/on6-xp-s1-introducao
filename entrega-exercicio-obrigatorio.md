@@ -16,7 +16,7 @@ Jessyca Maria Sousa Costa de Pascoa: https://github.com/pascoa21/reprograma-Back
 Laís Maaséias Lopes:
 Larissa Botelho de Souza:
 Lenize Barbosa de Lira:
-Letícia Ferreira Lima:
+Letícia Ferreira Lima:https://github.com/Letiiciia/exercicio1-reprograma.git
 Leticia Luzia da Silva Furtado:
 Lidiane Angelo Martins:
 Lilian Gomes Castro:
