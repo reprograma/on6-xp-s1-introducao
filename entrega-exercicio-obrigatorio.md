@@ -22,7 +22,7 @@ Lidiane Angelo Martins:
 Lilian Gomes Castro:
 Lílian Honorio Teixeira:
 Luana Letícia de Souza Silva:
-Maria Rosinele Félix do Nascimento:
+Maria Rosinele Félix do Nascimento: https://github.com/Rosinele/on6-reprograma-gitHub
 Mariana da Silva Pinheiro:
 Monaliza da Silva Vitor:
 Naiara Santos de Lima:
