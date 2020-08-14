@@ -12,7 +12,7 @@ Edilene Lopes do Rosario:
 Edlaine de Pontes Silva:
 Fernanda Gabriela Lima Oliveira Bezerra:https://github.com/nanda-oliveira/exercicio-git-e-github
 Graciela Lopes Nonato:
-Jessyca Maria Sousa Costa de Pascoa: https://github.com/pascoa21/reprograma-Back-XP.git
+Jessyca Maria Sousa Costa de Pascoa: https://github.com/pascoa21/reprograma-Back-XP
 Laís Maaséias Lopes:
 Larissa Botelho de Souza:
 Lenize Barbosa de Lira:
