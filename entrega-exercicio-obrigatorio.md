@@ -3,7 +3,7 @@
 > Insira na lista apenas o link correspondente ao repositório que você criou  
 
 Andréia Rosa Cardoso:
-Andreza Maia:
+Andreza Maia:https://github.com/AndrezaMaia/desafioaula1.git
 Camila de Paula Bentes Pessôa:
 Camila Marques dos Santos:
 Camila Santos Bulcão:
