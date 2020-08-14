@@ -27,7 +27,7 @@ Mariana da Silva Pinheiro:
 Monaliza da Silva Vitor:
 Naiara Santos de Lima:
 Nathália Cristina dos Santos:
-Patrícia de Souza dos Santos:
+Patrícia de Souza dos Santos: https://github.com/patriciasouzas/tarefa1-html-e-css
 Phabliny Martins Silva Bomfim:
 Raphaela Cristina Oliveira Britto: https://github.com/RaphaelaCristina/Exercicio-semana1
 Renata Braga de Abreu:
