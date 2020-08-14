@@ -17,7 +17,7 @@ Laís Maaséias Lopes:
 Larissa Botelho de Souza:
 Lenize Barbosa de Lira:
 Letícia Ferreira Lima:
-Leticia Luzia da Silva Furtado:
+Leticia Luzia da Silva Furtado: https://github.com/luzialeticia/bibliotecas-frameworks-js
 Lidiane Angelo Martins:
 Lilian Gomes Castro:
 Lílian Honorio Teixeira:
