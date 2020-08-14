@@ -34,6 +34,6 @@ Renata Braga de Abreu:
 Shaiene Carlos Barbosa:
 Simoni Accioly Vieira:
 Tainara Moreno da Silva:
-Tassila da Silva Bomfim:
+Tassila da Silva Bomfim: https://github.com/tassilabomfim/desafio1semana.git
 Thaíssa Carrafa do Nascimento:
 Vivian Kimie Toyota:
