@@ -15,7 +15,7 @@ Graciela Lopes Nonato:
 Jessyca Maria Sousa Costa de Pascoa: https://github.com/pascoa21/reprograma-Back-XP.git
 Laís Maaséias Lopes:
 Larissa Botelho de Souza:
-Lenize Barbosa de Lira:
+Lenize Barbosa de Lira: https://github.com/lenizelira/exercicio-aula1
 Letícia Ferreira Lima:
 Leticia Luzia da Silva Furtado:
 Lidiane Angelo Martins:
