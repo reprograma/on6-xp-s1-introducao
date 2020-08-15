@@ -23,7 +23,7 @@ Lilian Gomes Castro:
 Lílian Honorio Teixeira:
 Luana Letícia de Souza Silva:
 Maria Rosinele Félix do Nascimento:
-Mariana da Silva Pinheiro:
+Mariana da Silva Pinheiro: https://github.com/mrnpinheiro/ex1-reprograma
 Monaliza da Silva Vitor:
 Naiara Santos de Lima:
 Nathália Cristina dos Santos:
