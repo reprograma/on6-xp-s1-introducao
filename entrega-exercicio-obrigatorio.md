@@ -26,8 +26,8 @@ Maria Rosinele Félix do Nascimento:
 Mariana da Silva Pinheiro:
 Monaliza da Silva Vitor: https://github.com/monalizavitor/frameworks-e-bibliotecas
 Naiara Santos de Lima:
-Nathália Cristina dos Santos:
-Patrícia de Souza dos Santos: https://github.com/patriciasouzas/tarefa1-html-e-css
+Nathália Cristina dos Santos: https://github.com/nathaliacsan/exercicio-1-reprograma
+Patrícia de Souza dos Santos:https://github.com/patriciasouzas/tarefa1-html-e-css
 Phabliny Martins Silva Bomfim:
 Raphaela Cristina Oliveira Britto: https://github.com/RaphaelaCristina/Exercicio-semana1
 Renata Braga de Abreu:
