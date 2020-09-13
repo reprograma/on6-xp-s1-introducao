@@ -5,7 +5,7 @@
 Andréia Rosa Cardoso:
 Andreza Maia:
 Camila de Paula Bentes Pessôa:
-Camila Marques dos Santos:
+Camila Marques dos Santos: https://github.com/camila-marquesbr/Exercicio1-Reprograma
 Camila Santos Bulcão:
 Deise Somaya Gomes da Silva:https://github.com/somayamaya/semana1.git
 Edilene Lopes do Rosario:
