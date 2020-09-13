@@ -10,10 +10,11 @@ Camila Santos Bulcão:
 Deise Somaya Gomes da Silva:
 Edilene Lopes do Rosario:
 Edlaine de Pontes Silva:
-Fernanda Gabriela Lima Oliveira Bezerra:https://github.com/nanda-oliveira/exercicio-git-e-github
+Fernanda Gabriela Lima Oliveira Bezerra: 
+https://github.com/nanda-oliveira/exercicio-git-e-github
 Graciela Lopes Nonato:
 Jessyca Maria Sousa Costa de Pascoa: https://github.com/pascoa21/reprograma-Back-XP.git
-Laís Maaséias Lopes:
+Laís Maaséias Lopes:https://github.com/LaisMaas/Semana1_Reprograma_ProjetoPesquisa
 Larissa Botelho de Souza:
 Lenize Barbosa de Lira: https://github.com/lenizelira/exercicio-aula1
 Letícia Ferreira Lima:
@@ -23,17 +24,17 @@ Lilian Gomes Castro:
 Lílian Honorio Teixeira:
 Luana Letícia de Souza Silva:
 Maria Rosinele Félix do Nascimento:
-Mariana da Silva Pinheiro:
-Monaliza da Silva Vitor:
+Mariana da Silva Pinheiro: https://github.com/mrnpinheiro/ex1-reprograma
+Monaliza da Silva Vitor:https://github.com/monalizavitor/frameworks-e-bibliotecas
 Naiara Santos de Lima:
-Nathália Cristina dos Santos:
-Patrícia de Souza dos Santos: https://github.com/patriciasouzas/tarefa1-html-e-css
+Nathália Cristina dos Santos: https://github.com/nathaliacsan/exercicio-1-reprograma
+Patrícia de Souza dos Santos:https://github.com/patriciasouzas/tarefa1-html-e-css
 Phabliny Martins Silva Bomfim:
 Raphaela Cristina Oliveira Britto: https://github.com/RaphaelaCristina/Exercicio-semana1
 Renata Braga de Abreu:
-Shaiene Carlos Barbosa:
+Shaiene Carlos Barbosa: https://github.com/shaiennes/reprograma-exe01 
 Simoni Accioly Vieira: https://github.com/SimoniAccioly/Atividade1_Reprograma
-Tainara Moreno da Silva:
+Tainara Moreno da Silva: https://github.com/TainaraMoreno/Exercicios_Semana1
 Tassila da Silva Bomfim:
 Thaíssa Carrafa do Nascimento:
-Vivian Kimie Toyota:
+Vivian Kimie Toyota:https://github.com/viviantoyota/exerciciosemana1.git
