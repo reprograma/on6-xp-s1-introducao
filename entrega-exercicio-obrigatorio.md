@@ -8,7 +8,7 @@ Camila de Paula Bentes Pessôa: https://github.com/camilapessoa/reprogramaexe01
 Camila Marques dos Santos: https://github.com/camila-marquesbr/Exercicio1-Reprograma
 Camila Santos Bulcão:
 Deise Somaya Gomes da Silva:https://github.com/somayamaya/semana1.git
-Edilene Lopes do Rosario:
+Edilene Lopes do Rosario: https://github.com/EdileneLopes/exercicio1-reprograma
 Edlaine de Pontes Silva: https://github.com/Edlaine-Pontes/on6-xp-s1-edlaine-resposta
 Fernanda Gabriela Lima Oliveira Bezerra: https://github.com/nanda-oliveira/exercicio-git-e-github
 Graciela Lopes Nonato: https://github.com/GraciLopes/exercicio1
