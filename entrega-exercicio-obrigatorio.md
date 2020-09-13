@@ -6,7 +6,7 @@ Andréia Rosa Cardoso:
 Andreza Maia:https://github.com/AndrezaMaia/desafioaula1.git
 Camila de Paula Bentes Pessôa: https://github.com/camilapessoa/reprogramaexe01
 Camila Marques dos Santos: https://github.com/camila-marquesbr/Exercicio1-Reprograma
-Camila Santos Bulcão:
+Camila Santos Bulcão: https://github.com/camilabulcao/exercicio1-reprograma
 Deise Somaya Gomes da Silva:https://github.com/somayamaya/semana1.git
 Edilene Lopes do Rosario: https://github.com/EdileneLopes/exercicio1-reprograma
 Edlaine de Pontes Silva: https://github.com/Edlaine-Pontes/on6-xp-s1-edlaine-resposta
