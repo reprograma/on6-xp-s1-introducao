@@ -20,7 +20,7 @@ Letícia Ferreira Lima: https://github.com/Letiiciia/exercicio1-reprograma.git
 Leticia Luzia da Silva Furtado: https://github.com/luzialeticia/bibliotecas-frameworks-js
 Lidiane Angelo Martins: https://github.com/Lidianeangelo/on6-xp-s1-introducao.git
 Lilian Gomes Castro:
-Lílian Honorio Teixeira:
+Lílian Honorio Teixeira: https://github.com/lilianhteixeira/Reprograma/tree/master/Semana_1_Git_%26_Github
 Luana Letícia de Souza Silva: https://github.com/Luana-Leticia/reprograma-exercicio1
 Maria Rosinele Félix do Nascimento: https://github.com/Rosinele/on6-reprograma-gitHub
 Mariana da Silva Pinheiro: https://github.com/mrnpinheiro/ex1-reprograma
