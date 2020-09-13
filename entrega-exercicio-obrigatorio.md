@@ -10,9 +10,8 @@ Camila Santos Bulcão:
 Deise Somaya Gomes da Silva:https://github.com/somayamaya/semana1.git
 Edilene Lopes do Rosario:
 Edlaine de Pontes Silva:
-Fernanda Gabriela Lima Oliveira Bezerra: 
-https://github.com/nanda-oliveira/exercicio-git-e-github
-Graciela Lopes Nonato:
+Fernanda Gabriela Lima Oliveira Bezerra: https://github.com/nanda-oliveira/exercicio-git-e-github
+Graciela Lopes Nonato: https://github.com/GraciLopes/exercicio1
 Jessyca Maria Sousa Costa de Pascoa: https://github.com/pascoa21/reprograma-Back-XP
 Laís Maaséias Lopes:https://github.com/LaisMaas/Semana1_Reprograma_ProjetoPesquisa
 Larissa Botelho de Souza:
