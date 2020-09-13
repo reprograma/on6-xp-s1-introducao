@@ -18,7 +18,7 @@ Laís Maaséias Lopes:https://github.com/LaisMaas/Semana1_Reprograma_ProjetoPesq
 Larissa Botelho de Souza:
 Lenize Barbosa de Lira: https://github.com/lenizelira/exercicio-aula1
 Letícia Ferreira Lima:
-Leticia Luzia da Silva Furtado:
+Leticia Luzia da Silva Furtado: https://github.com/luzialeticia/bibliotecas-frameworks-js
 Lidiane Angelo Martins:
 Lilian Gomes Castro:
 Lílian Honorio Teixeira:
