@@ -4,7 +4,7 @@
 
 Andréia Rosa Cardoso:
 Andreza Maia:https://github.com/AndrezaMaia/desafioaula1.git
-Camila de Paula Bentes Pessôa:
+Camila de Paula Bentes Pessôa: https://github.com/camilapessoa/reprogramaexe01
 Camila Marques dos Santos: https://github.com/camila-marquesbr/Exercicio1-Reprograma
 Camila Santos Bulcão:
 Deise Somaya Gomes da Silva:https://github.com/somayamaya/semana1.git
