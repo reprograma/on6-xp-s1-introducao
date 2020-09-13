@@ -173,15 +173,3 @@ https://medium.com/reprogramabr/git-e-github-por-onde-come%C3%A7ar-ca88a783c223 
 https://git-scm.com/book/pt-br/v1/Primeiros-passos-Sobre-Controle-de-Vers%C3%A3o -> Documentação oficial do git em português.
 
 https://rogerdudler.github.io/git-guide/index.pt_BR.html -> git - guia prático
-
-
-
-
-
-
-
-
-
-
-
-
