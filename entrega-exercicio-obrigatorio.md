@@ -32,7 +32,7 @@ Patrícia de Souza dos Santos:https://github.com/patriciasouzas/tarefa1-html-e-c
 Phabliny Martins Silva Bomfim:
 Raphaela Cristina Oliveira Britto: https://github.com/RaphaelaCristina/Exercicio-semana1
 Renata Braga de Abreu:
-Shaiene Carlos Barbosa:
+Shaiene Carlos Barbosa: https://github.com/shaiennes/reprograma-exe01 
 Simoni Accioly Vieira:
 Tainara Moreno da Silva: https://github.com/TainaraMoreno/Exercicios_Semana1
 Tassila da Silva Bomfim:
