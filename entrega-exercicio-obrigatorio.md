@@ -33,7 +33,7 @@ Phabliny Martins Silva Bomfim:
 Raphaela Cristina Oliveira Britto: https://github.com/RaphaelaCristina/Exercicio-semana1
 Renata Braga de Abreu:
 Shaiene Carlos Barbosa: https://github.com/shaiennes/reprograma-exe01 
-Simoni Accioly Vieira:
+Simoni Accioly Vieira: https://github.com/SimoniAccioly/Atividade1_Reprograma
 Tainara Moreno da Silva: https://github.com/TainaraMoreno/Exercicios_Semana1
 Tassila da Silva Bomfim:
 Thaíssa Carrafa do Nascimento:
