@@ -28,7 +28,7 @@ Monaliza da Silva Vitor:https://github.com/monalizavitor/frameworks-e-biblioteca
 Naiara Santos de Lima:
 Nathália Cristina dos Santos: https://github.com/nathaliacsan/exercicio-1-reprograma
 Patrícia de Souza dos Santos:https://github.com/patriciasouzas/tarefa1-html-e-css
-Phabliny Martins Silva Bomfim:
+Phabliny Martins Silva Bomfim: https://github.com/Phabliny/reprograma-atividade-1
 Raphaela Cristina Oliveira Britto: https://github.com/RaphaelaCristina/Exercicio-semana1
 Renata Braga de Abreu: https://github.com/rabreu/reprograma-exercicio01
 Shaiene Carlos Barbosa: https://github.com/shaiennes/reprograma-exe01 
