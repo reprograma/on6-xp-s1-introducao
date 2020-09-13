@@ -36,4 +36,4 @@ Simoni Accioly Vieira:
 Tainara Moreno da Silva:
 Tassila da Silva Bomfim:
 Thaíssa Carrafa do Nascimento:
-Vivian Kimie Toyota:
+Vivian Kimie Toyota:https://github.com/viviantoyota/exerciciosemana1.git
