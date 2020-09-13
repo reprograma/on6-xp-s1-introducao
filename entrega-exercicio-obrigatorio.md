@@ -14,7 +14,7 @@ Fernanda Gabriela Lima Oliveira Bezerra: https://github.com/nanda-oliveira/exerc
 Graciela Lopes Nonato: https://github.com/GraciLopes/exercicio1
 Jessyca Maria Sousa Costa de Pascoa: https://github.com/pascoa21/reprograma-Back-XP
 Laís Maaséias Lopes:https://github.com/LaisMaas/Semana1_Reprograma_ProjetoPesquisa
-Larissa Botelho de Souza:
+Larissa Botelho de Souza: https://github.com/botelholarissa/exercicio-aula1-larissa
 Lenize Barbosa de Lira: https://github.com/lenizelira/exercicio-aula1
 Letícia Ferreira Lima: https://github.com/Letiiciia/exercicio1-reprograma.git
 Leticia Luzia da Silva Furtado: https://github.com/luzialeticia/bibliotecas-frameworks-js
