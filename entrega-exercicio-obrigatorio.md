@@ -34,7 +34,7 @@ Raphaela Cristina Oliveira Britto: https://github.com/RaphaelaCristina/Exercicio
 Renata Braga de Abreu:
 Shaiene Carlos Barbosa:
 Simoni Accioly Vieira:
-Tainara Moreno da Silva:
+Tainara Moreno da Silva: https://github.com/TainaraMoreno/Exercicios_Semana1
 Tassila da Silva Bomfim:
 Thaíssa Carrafa do Nascimento:
 Vivian Kimie Toyota:https://github.com/viviantoyota/exerciciosemana1.git
