@@ -31,7 +31,7 @@ Nathália Cristina dos Santos: https://github.com/nathaliacsan/exercicio-1-repro
 Patrícia de Souza dos Santos:https://github.com/patriciasouzas/tarefa1-html-e-css
 Phabliny Martins Silva Bomfim:
 Raphaela Cristina Oliveira Britto: https://github.com/RaphaelaCristina/Exercicio-semana1
-Renata Braga de Abreu:
+Renata Braga de Abreu: https://github.com/rabreu/reprograma-exercicio01
 Shaiene Carlos Barbosa: https://github.com/shaiennes/reprograma-exe01 
 Simoni Accioly Vieira: https://github.com/SimoniAccioly/Atividade1_Reprograma
 Tainara Moreno da Silva: https://github.com/TainaraMoreno/Exercicios_Semana1
