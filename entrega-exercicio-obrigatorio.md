@@ -18,7 +18,7 @@ Larissa Botelho de Souza:
 Lenize Barbosa de Lira: https://github.com/lenizelira/exercicio-aula1
 Letícia Ferreira Lima: https://github.com/Letiiciia/exercicio1-reprograma.git
 Leticia Luzia da Silva Furtado: https://github.com/luzialeticia/bibliotecas-frameworks-js
-Lidiane Angelo Martins:
+Lidiane Angelo Martins: https://github.com/Lidianeangelo/on6-xp-s1-introducao.git
 Lilian Gomes Castro:
 Lílian Honorio Teixeira:
 Luana Letícia de Souza Silva:
