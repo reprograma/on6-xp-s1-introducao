@@ -9,7 +9,7 @@ Camila Marques dos Santos: https://github.com/camila-marquesbr/Exercicio1-Reprog
 Camila Santos Bulcão:
 Deise Somaya Gomes da Silva:https://github.com/somayamaya/semana1.git
 Edilene Lopes do Rosario:
-Edlaine de Pontes Silva:
+Edlaine de Pontes Silva: https://github.com/Edlaine-Pontes/on6-xp-s1-edlaine-resposta
 Fernanda Gabriela Lima Oliveira Bezerra: https://github.com/nanda-oliveira/exercicio-git-e-github
 Graciela Lopes Nonato: https://github.com/GraciLopes/exercicio1
 Jessyca Maria Sousa Costa de Pascoa: https://github.com/pascoa21/reprograma-Back-XP
