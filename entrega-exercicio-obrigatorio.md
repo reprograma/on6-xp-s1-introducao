@@ -35,6 +35,6 @@ Renata Braga de Abreu: https://github.com/rabreu/reprograma-exercicio01
 Shaiene Carlos Barbosa: https://github.com/shaiennes/reprograma-exe01 
 Simoni Accioly Vieira: https://github.com/SimoniAccioly/Atividade1_Reprograma
 Tainara Moreno da Silva: https://github.com/TainaraMoreno/Exercicios_Semana1
-Tassila da Silva Bomfim:
+Tassila da Silva Bomfim: https://github.com/tassilabomfim/desafio1semana.git
 Thaíssa Carrafa do Nascimento:
 Vivian Kimie Toyota:https://github.com/viviantoyota/exerciciosemana1.git
