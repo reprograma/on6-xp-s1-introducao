@@ -2,7 +2,7 @@
 
 ## Conceitos gerais
 
-### Font-end
+### Front-end
  
 ![GitHub Logo](https://cdn.cultofmac.com/wp-content/uploads/2016/10/CoM-The-Ultimate-Front-End-Development-Bundle-780x390.jpg)
 
